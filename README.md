@@ -8,10 +8,7 @@ Esta aplicación Flutter muestra 5 lugares turísticos de Ecuador. Cada lugar in
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Uso](#uso)
-- [Lugares Turísticos](#lugares-turísticos)
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Licencia](#licencia)
+
 
 ## Descripción del Proyecto
 
