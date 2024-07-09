@@ -26,8 +26,8 @@ Esta aplicación Flutter está diseñada para demostrar el uso de diferentes wid
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/flutter-tourist-places.git
-    cd flutter-tourist-places
+    git clone https://github.com/JosephYM07/Flutter-2---layouts.git
+    
     ```
 
 2. Asegúrate de tener Flutter instalado y configurado en tu sistema:
@@ -59,4 +59,15 @@ Esta aplicación Flutter está diseñada para demostrar el uso de diferentes wid
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
+flutter-tourist-places/
+├── assets/
+│ ├── mitad_del_mundo.jpg
+│ ├── islas_galapagos.jpg
+│ ├── banos_agua_santa.jpg
+│ ├── parque_nacional_cotopaxi.jpg
+│ └── cuenca.jpg
+├── lib/
+│ ├── main.dart
+├── pubspec.yaml
+└── README.md
 
